@@ -46,8 +46,7 @@
                     <div class="contact-block__info tabular-info">
                         <div class="tabular-info__item info-item">
                             <label class="info-item__label">Call us on</label>
-                            <span class="info-item__data"><a class="cta-link" href="tel:02920 102977">02920
-                                    102977</a></span>
+                            <span class="info-item__data"><a class="cta-link" href="tel:+44 7496 353714">+44 7496 353714</a></span>
                         </div>
                         <div class="tabular-info__item info-item">
                             <label class="info-item__label">Email us on</label>
