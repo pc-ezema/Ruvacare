@@ -15,11 +15,6 @@
                         About Us
                     </a>
                 </li>
-                <li class="page-list__item {{ (request()->is('our-teams')) ? 'active' : '' }}">
-                    <a title="Meet Our Team" href="/our-teams">
-                        Meet Our Team
-                    </a>
-                </li>
                 <li class="page-list__item {{ (request()->is('faqs')) ? 'active' : '' }}">
                     <a title="FAQs" href="/faqs">
                         FAQs
